@@ -1,2 +1,2 @@
-# Threat_Aggregator
-Threat Aggregator based on organization Assets
+# Threat Aggregator
+Threat Aggregator based on organization assets
